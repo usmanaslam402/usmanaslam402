@@ -1,4 +1,4 @@
-# Hi, I'm Muhammad Usman Aslam
+# Hi, I'm Usman
 
 **Data Engineer | Data Scientist | Analytics & AI/ML Researcher** | Python, SQL, PySpark, Databricks, Power BI, Machine Learning | M.S. Data Science, University of West Florida
 
